@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Andika Galih Saputra',
+            child: 'Putra ke 1',
+            father: 'Tohani',
+            mother: 'Siti Muslikhah',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Destry Nurvita',
+            child: 'Putri ke 7',
+            father: 'Dayat',
+            mother: 'Carsem',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,31 +22,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
+            year: '2026',
+            month: 'Agustus',
+            date: '13',
             day: 'Kamis',
             hours: {
-                start: '08.00',
+                start: '08:00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
+            year: '2026',
+            month: 'Agustus',
+            date: '13',
             day: 'Kamis',
             hours: {
-                start: '11.00',
+                start: '08:00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Kediaman Mempelai Wanita, Jl.Tangsi rt02/rw04, Desa Pageraji Kec. Cilongok, Kab. Banyumas',
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        calendar: 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akad+Nikah+Andika+Galih+Saputra+%26+Destry+Nurvita&dates=20260813T080000/20260813T100000&details=Dengan+penuh+rasa+syukur+dan+kebahagiaan%2C+kami+mengundang+Anda+untuk+menjadi+saksi+dan+bagian+dari+momen+suci+Akad+Nikah+Andika+Galih+Saputra+%26+Destry+Nurvita.+Kehadiran+serta+doa+restu+Anda+akan+menjadi+anugerah+yang+tak+ternilai+bagi+kami.+Terima+kasih+atas+segala+doa%2C+dukungan%2C+dan+kasih+yang+diberikan.&location=Rumah+Mempelai+Putri%2C+Desa+Pageraji',
+        map: 'https://maps.app.goo.gl/ZNDCCzqFVbkzXK616',
     },
 
     galeri: [
@@ -75,21 +75,21 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
-            icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            name: 'DESTRY NURVITA',
+            icon: './src/assets/images/mandiri.png',
+            rekening: '1800013605383'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            name: 'ANDIKA GALIH SAPUTRA',
+            icon: './src/assets/images/mandiri.png',
+            rekening: '1730018884420'
         },
     ],
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbwisUDmqBZYKWEL7VadCpGh1jrXxX9gf3HfeYSqpAmAnw9WEvUdn6Bkt8hfdOt4yvuWPw/exec',
 
     navbar: [
         {
